@@ -3,7 +3,6 @@
 </p>
 <p align="center"> <img src="https://cdn.modrinth.com/data/cached_images/851dfa5c7fe2beb15954c78482d3523f3e4b61cd.png" alt="logo" width="2000"/>
 </p>
-<br>
 <p align="center"><img src="https://cdn.modrinth.com/data/cached_images/8af5ac123b0404aa0fecd8facaee09985834f33a.png" alt="links" width="75%"/></p>
 <p align="center"><img src="https://cdn.modrinth.com/data/cached_images/7d19358b6f7b133f4bd22b018a90c0141cc849ba.png" alt="divider"/></p>
 
